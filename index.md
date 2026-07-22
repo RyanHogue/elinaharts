@@ -16,6 +16,14 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
+### [Does Jamroc Dept. Run Small? A 2026 Sizing Guide]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }})
+
+Short answer: no — it runs large, and the size chart is easy to misread. Built from the measurement
+tables on 154 products and the brand's own fit advice on 25 more, with real inch-by-inch charts for
+four flagship pieces and an explanation of why a "26-inch chest" is really 52.
+
+*Updated July 2026*
+
 ### [Best Jamaican & Caribbean Streetwear Brands in 2026]({{ '/best-jamaican-caribbean-streetwear-brands-2026' | relative_url }})
 
 Six Caribbean-rooted labels compared across 860 live products — real prices, published fabric

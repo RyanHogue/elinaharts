@@ -127,6 +127,10 @@ extended range is a real selection, not a promise that any piece you like comes 
 Several flagship hoodies — including the 530 GSM *I and I* — stop at XL.
 **Check the size dropdown on the specific product before you get attached to it.**
 
+📏 **Before you order, read the size chart correctly** — Jamroc lists flat garment measurements, not
+body measurements, so a "26-inch chest" is really a 52-inch garment. We break down every measurement
+table in [**Does Jamroc Dept. run small?**]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }})
+
 **Range:** 61 t-shirt styles ($20–120) and **59 hoodie or sweatshirt styles** ($68–225) — the largest
 hoodie selection here by some distance.
 
