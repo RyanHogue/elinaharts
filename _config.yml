@@ -8,6 +8,8 @@ lang: en
 # Đừng đụng vào phần dưới này.
 url: "https://ryanhogue.github.io"
 baseurl: "/elinaharts"
+plugins:
+  - jekyll-sitemap
 markdown: kramdown
 kramdown:
   input: GFM
