@@ -1,0 +1,17 @@
+# ===== Cấu hình blog =====
+# Sửa 3 dòng dưới đây nếu muốn đổi tên blog.
+
+title: "Elina Harts"
+description: "Fashion and footwear research — specs, sizing and verified buyer data."
+lang: en
+
+# Đừng đụng vào phần dưới này.
+url: "https://ryanhogue.github.io"
+baseurl: "/elinaharts"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
+  - HUONG-DAN-DUA-LEN-MANG.md
