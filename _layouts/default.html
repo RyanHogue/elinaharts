@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:type" content="article">
+<style>
+  :root{
+    --bg:#fdfbfa; --ink:#1b1918; --muted:#6f6764; --line:#e8e1dc;
+    --accent:#b85c52; --card:#ffffff;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#131110; --ink:#f2ede9; --muted:#a09894; --line:#2c2725;
+      --accent:#e2897e; --card:#1c1918;
+    }
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg);color:var(--ink);
+    font:17px/1.68 Georgia,"Times New Roman",serif;
+    -webkit-font-smoothing:antialiased;
+    padding:0 20px 80px;
+  }
+  .wrap{max-width:720px;margin:0 auto}
+
+  .site-head{
+    padding:22px 0;border-bottom:1px solid var(--line);margin-bottom:38px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  }
+  .site-head a{
+    text-decoration:none;color:var(--ink);font-weight:700;
+    font-size:17px;letter-spacing:-.01em;
+  }
+
+  h1{
+    font-size:33px;line-height:1.22;letter-spacing:-.02em;
+    margin:14px 0 18px;font-weight:700;
+  }
+  h2{
+    font-size:24px;line-height:1.3;margin:44px 0 14px;
+    padding-top:20px;border-top:1px solid var(--line);font-weight:700;
+  }
+  h3{font-size:19.5px;margin:32px 0 10px;font-weight:700}
+  p{margin:0 0 17px}
+  ul,ol{margin:0 0 17px 22px}
+  li{margin-bottom:6px}
+  em{color:var(--muted)}
+  hr{border:0;border-top:1px solid var(--line);margin:38px 0}
+  a{color:var(--accent)}
+
+  blockquote{
+    border-left:3px solid var(--accent);padding:2px 0 2px 18px;
+    margin:0 0 18px;color:var(--muted);font-style:italic;
+  }
+
+  /* Bảng — cuộn ngang trên điện thoại, không đẩy cả trang */
+  .table-scroll{overflow-x:auto;margin:0 0 22px;-webkit-overflow-scrolling:touch}
+  table{
+    border-collapse:collapse;width:100%;min-width:460px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    font-size:14.5px;
+  }
+  th,td{border:1px solid var(--line);padding:9px 11px;text-align:left;vertical-align:top}
+  th{background:var(--card);font-weight:700}
+
+  code{
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.88em;
+    background:var(--card);border:1px solid var(--line);
+    padding:1px 5px;border-radius:4px;
+  }
+
+  img{max-width:100%;height:auto}
+
+  .site-foot{
+    margin-top:56px;padding-top:22px;border-top:1px solid var(--line);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    font-size:13px;color:var(--muted);
+  }
+
+  @media(max-width:600px){
+    body{font-size:16.5px;padding:0 16px 60px}
+    h1{font-size:27px}
+    h2{font-size:21px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="site-head">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </div>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <div class="site-foot">
+    <p>{{ site.description }}</p>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Content is AI-assisted research, not personal product testing.</p>
+  </div>
+
+</div>
+
+<script>
+  // Bọc mọi bảng vào khung cuộn ngang để điện thoại không bị vỡ layout
+  document.querySelectorAll('table').forEach(function(t){
+    if(t.parentElement.classList.contains('table-scroll')) return;
+    var d=document.createElement('div');
+    d.className='table-scroll';
+    t.parentNode.insertBefore(d,t);
+    d.appendChild(t);
+  });
+</script>
+</body>
+</html>
