@@ -16,6 +16,15 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
+### [Best Jamaican & Caribbean Streetwear Brands in 2026]({{ '/best-jamaican-caribbean-streetwear-brands-2026' | relative_url }})
+
+Six Caribbean-rooted labels compared across 860 live products — real prices, published fabric
+weights, and how far each brand's size range actually extends. Only one of the six publishes GSM
+at all, and only one carries anything above 4XL. Includes a fabric-weight reference table and a
+section on who should *not* buy.
+
+*Updated July 2026*
+
 ### [The Best Sensory-Friendly School Shoes for Kids in 2026]({{ '/best-sensory-friendly-school-shoes-2026' | relative_url }})
 
 A back-to-school buying guide for parents of kids with sensory processing differences, autism,
