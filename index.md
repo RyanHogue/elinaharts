@@ -16,6 +16,15 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
+### [Jamroc Dept. vs Farm Brand: Which Gives You More Fabric for Your Money?]({{ '/jamroc-vs-farm-brand-2026' | relative_url }})
+
+One brand publishes fabric weight in GSM, the other in ounces — so nobody compares them directly.
+We converted every published weight across 464 products. The answer splits: Farm Brand delivers
+roughly twice the hoodie fabric per dollar, while Jamroc is the only one of the two that sells a
+heavyweight tee at all.
+
+*Updated July 2026*
+
 ### [Does Jamroc Dept. Run Small? A 2026 Sizing Guide]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }})
 
 Short answer: no — it runs large, and the size chart is easy to misread. Built from the measurement

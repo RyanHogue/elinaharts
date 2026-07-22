@@ -275,6 +275,7 @@ Measurements and stock change. Check the current product page before ordering.
 
 ## Sources
 
+- [Jamroc Dept. vs Farm Brand — fabric weight compared]({{ '/jamroc-vs-farm-brand-2026' | relative_url }}) — how Jamroc's GSM figures stack up against a cheaper competitor's
 - [Jamroc Dept. official site](https://www.jamrocdept.com/?ref=RYANHOGUE) *(affiliate link)*
 - Product measurement tables and fit notes, read from Jamroc Dept.'s published product data,
   July 23, 2026
