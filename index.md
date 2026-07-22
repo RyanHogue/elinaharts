@@ -16,7 +16,7 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
-### [The Best Sensory-Friendly School Shoes for Kids in 2026](/best-sensory-friendly-school-shoes-2026)
+### [The Best Sensory-Friendly School Shoes for Kids in 2026]({{ '/best-sensory-friendly-school-shoes-2026' | relative_url }})
 
 A back-to-school buying guide for parents of kids with sensory processing differences, autism,
 ADHD, or foot-brace needs. Ten shoes compared on entry method, interior construction, width
