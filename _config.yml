@@ -10,8 +10,8 @@ instagram: "https://www.instagram.com/elinaharts/"
 youtube: "https://www.youtube.com/@elinaharts"
 
 # Đừng đụng vào phần dưới này.
-url: "https://ryanhogue.github.io"
-baseurl: "/elinaharts"
+url: "https://elinaharts.com"
+baseurl: ""
 plugins:
   - jekyll-sitemap
 markdown: kramdown
