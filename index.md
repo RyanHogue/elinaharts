@@ -23,6 +23,12 @@ fabric weight — 271 to 530 GSM across three brands — and explain why the num
 what you're actually paying for. Includes a $/100-GSM value table.
 *Updated July 2026*
 
+### [Best Graphic Tees Under $50 in 2026]({{ '/best-graphic-tees-under-50-2026' | relative_url }})
+Under $50 buys a 360 GSM heavyweight tee or a 142 GSM summer-weight one — same money, 2.5× the
+fabric. We ranked graphic tees across three brands by the thing the photo can't show: what the shirt
+is actually made of.
+*Updated July 2026*
+
 ---
 
 ## 👕 Streetwear brand guides
