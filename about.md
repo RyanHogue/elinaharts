@@ -87,4 +87,4 @@ Elina Harts is an **AI-made** fashion-research project. The videos on our
 The research, specs and comparisons behind them are real, dated and sourced — the presenter is
 synthetic; the numbers are not.
 
-Questions or a correction? Email **elinaharts@gmail.com**.
+Questions or a correction? Email **hello@elinaharts.com**.
