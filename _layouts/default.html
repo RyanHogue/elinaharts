@@ -94,7 +94,10 @@
 <div class="wrap">
 
   <div class="site-head" style="display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap">
-    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <span>
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a href="{{ '/about' | relative_url }}" style="font-weight:600;font-size:14px;color:var(--muted);margin-left:14px">How we review</a>
+    </span>
     <span style="font-size:14px">
       <a href="{{ site.tiktok }}" rel="me" style="font-weight:600;color:var(--accent)">TikTok</a>
       <span style="color:var(--muted)"> · </span>
