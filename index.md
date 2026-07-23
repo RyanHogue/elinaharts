@@ -16,6 +16,15 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
+### [Does Farm Brand Run Small? What Their Sizing Actually Tells You]({{ '/farm-brand-sizing-guide-2026' | relative_url }})
+
+Short answer: no — it's true to size, and makes no "runs small" claim anywhere. The real catch is
+that it publishes no size charts at all. How to size correctly without one, using fabric weight and
+the brand's own fit vocabulary, plus the size range reality (XS–2XL on almost everything, 3XL on
+only 14 styles).
+
+*Updated July 2026*
+
 ### [Jamroc Dept. vs Farm Brand: Which Gives You More Fabric for Your Money?]({{ '/jamroc-vs-farm-brand-2026' | relative_url }})
 
 One brand publishes fabric weight in GSM, the other in ounces — so nobody compares them directly.

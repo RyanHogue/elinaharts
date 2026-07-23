@@ -255,4 +255,5 @@ garment is not automatically a better one.
 - Product weights, fibre content, prices and size grids read from both brands' published product
   data, July 23, 2026
 - [Does Jamroc Dept. run small? — our sizing guide]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }})
+- [Does Farm Brand run small? — our Farm Brand sizing guide]({{ '/farm-brand-sizing-guide-2026' | relative_url }})
 - [Best Jamaican & Caribbean streetwear brands 2026]({{ '/best-jamaican-caribbean-streetwear-brands-2026' | relative_url }})
