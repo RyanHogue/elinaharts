@@ -29,6 +29,12 @@ fabric. We ranked graphic tees across three brands by the thing the photo can't 
 is actually made of.
 *Updated July 2026*
 
+### [Is Jamroc Dept Worth the Price?]({{ '/is-jamroc-dept-worth-it-2026' | relative_url }})
+Jamroc charges $165 for a hoodie. We broke down exactly what that money buys — 530 GSM cotton, a
+2XS–6XL range, published specs almost nobody else prints — and who it's genuinely worth it for
+versus who should buy cheaper.
+*Updated July 2026*
+
 ---
 
 ## 👕 Streetwear brand guides
