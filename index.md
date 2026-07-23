@@ -15,6 +15,16 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ---
 
+## 🧥 Buying guides
+
+### [Best Heavyweight Hoodies in 2026]({{ '/best-heavyweight-hoodies-2026' | relative_url }})
+"Heavyweight" is the most abused word in hoodies. We ranked real heavyweight hoodies by published
+fabric weight — 271 to 530 GSM across three brands — and explain why the number, not the label, is
+what you're actually paying for. Includes a $/100-GSM value table.
+*Updated July 2026*
+
+---
+
 ## 👕 Streetwear brand guides
 
 ### [Best Jamaican & Caribbean Streetwear Brands in 2026]({{ '/best-jamaican-caribbean-streetwear-brands-2026' | relative_url }})
