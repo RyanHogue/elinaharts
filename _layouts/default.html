@@ -93,8 +93,9 @@
 <body>
 <div class="wrap">
 
-  <div class="site-head">
+  <div class="site-head" style="display:flex;justify-content:space-between;align-items:baseline;gap:16px">
     <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a href="{{ site.tiktok }}" rel="me" style="font-weight:600;font-size:14px;color:var(--accent)">TikTok @elinaharts →</a>
   </div>
 
   <main>
@@ -103,6 +104,7 @@
 
   <div class="site-foot">
     <p>{{ site.description }}</p>
+    <p>Watch the short videos on TikTok: <a href="{{ site.tiktok }}" rel="me">@elinaharts</a></p>
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. Content is AI-assisted research, not personal product testing.</p>
   </div>
 
