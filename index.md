@@ -35,6 +35,12 @@ Jamroc charges $165 for a hoodie. We broke down exactly what that money buys —
 versus who should buy cheaper.
 *Updated July 2026*
 
+### [Best Plus-Size Streetwear Brands (Up to 6XL)]({{ '/best-plus-size-streetwear-2026' | relative_url }})
+Most streetwear stops at 2XL. We counted the extended sizes across three brands — one carries 96
+styles at 3XL and up, to 6XL, while the others barely reach 3XL. If you wear above 2XL, this is the
+guide.
+*Updated July 2026*
+
 ---
 
 ## 👕 Streetwear brand guides
