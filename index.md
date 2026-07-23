@@ -16,6 +16,12 @@ manufacturer's own spec sheet or to published customer reviews, and we say so on
 
 ## Guides
 
+### [Jamroc Dept. vs Cooyah: Which Jamaican Streetwear Brand Is Right for You?]({{ '/jamroc-vs-cooyah-2026' | relative_url }})
+
+Two Jamaica-rooted brands that look like rivals but serve two different shoppers. Cooyah wins on price, tee selection and women's cuts; Jamroc wins on published fabric weight and any size above 2XL. Compared across ~650 live products.
+
+*Updated July 2026*
+
 ### [Does Farm Brand Run Small? What Their Sizing Actually Tells You]({{ '/farm-brand-sizing-guide-2026' | relative_url }})
 
 Short answer: no — it's true to size, and makes no "runs small" claim anywhere. The real catch is
