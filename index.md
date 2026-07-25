@@ -35,6 +35,12 @@ Jamroc charges $165 for a hoodie. We broke down exactly what that money buys —
 versus who should buy cheaper.
 *Updated July 2026*
 
+### [Is Surf Trip Supply Worth It?]({{ '/is-surf-trip-supply-worth-it-2026' | relative_url }})
+Surf Trip Supply sells $80–98 hand-drawn surf hoodies in small US batches. We broke down its
+published data — fabric, fit, sizing and stock — including a 460 GSM hoodie at $98 that beats
+premium brands on cost per gram, and who should skip it (sizing stops at XL).
+*Updated July 2026*
+
 ### [Best Plus-Size Streetwear Brands (Up to 6XL)]({{ '/best-plus-size-streetwear-2026' | relative_url }})
 Most streetwear stops at 2XL. We counted the extended sizes across three brands — one carries 96
 styles at 3XL and up, to 6XL, while the others barely reach 3XL. If you wear above 2XL, this is the
