@@ -17,6 +17,12 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## 🧥 Buying guides
 
+### [Best Gift Hoodies in 2026]({{ '/best-gift-hoodies-2026' | relative_url }})
+Six picks for six different people, not one ranked list — the heaviest fabric, the best under $50,
+the one for a surfer, the one with a cause behind it, the one that fits above 2XL, and a stocking
+stuffer under $30. Checked against live stock the day we wrote it.
+*Updated July 2026*
+
 ### [Best Heavyweight Hoodies in 2026]({{ '/best-heavyweight-hoodies-2026' | relative_url }})
 "Heavyweight" is the most abused word in hoodies. We ranked real heavyweight hoodies by published
 fabric weight — 271 to 530 GSM across three brands — and explain why the number, not the label, is
