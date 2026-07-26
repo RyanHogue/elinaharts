@@ -91,6 +91,12 @@ publishes no size charts at all. How to size correctly without one, using fabric
 brand's own fit vocabulary.
 *Updated July 2026*
 
+### [Does Surf Trip Supply Run Small?]({{ '/surf-trip-supply-sizing-guide-2026' | relative_url }})
+No "runs small" claim anywhere — but no measurement chart either. Instead the brand tells you a
+model's height and the size they wear on 26 of 33 styles. One exception: the flagship 460 GSM
+Toggle Hoodie runs a full size larger than the pattern predicts.
+*Updated July 2026*
+
 ---
 
 ## 👟 More guides
