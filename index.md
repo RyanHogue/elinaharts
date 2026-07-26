@@ -23,6 +23,17 @@ best signature design, best for cooler weather — checked against live stock so
 at checkout. This small-batch brand sells out unevenly; we say exactly what's in stock today.
 *Updated July 2026*
 
+### [Surf Trip Supply's Y2K Collection: What's In Stock (2026)]({{ '/surf-trip-supply-y2k-collection-2026' | relative_url }})
+A close look at the brand's newest drop — three hoodies and a denim jacket — using the brand's own
+fit notes (model height and size worn) and live stock, checked the day we wrote this.
+*Updated July 2026*
+
+### [Stay Another Day: Embroidered vs. Screen Printed]({{ '/stay-another-day-embroidered-vs-screen-printed-2026' | relative_url }})
+Stay Another Day sells the same core designs in two versions for a consistent $7–8 price gap. We
+compared the brand's own product data to show the blank garment is identical — the extra money buys
+a decoration technique, not a heavier hoodie.
+*Updated July 2026*
+
 ### [Best Gift Hoodies in 2026]({{ '/best-gift-hoodies-2026' | relative_url }})
 Six picks for six different people, not one ranked list — the heaviest fabric, the best under $50,
 the one for a surfer, the one with a cause behind it, the one that fits above 2XL, and a stocking
