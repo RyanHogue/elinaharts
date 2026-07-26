@@ -17,6 +17,12 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## 🧥 Buying guides
 
+### [Which Surf Trip Supply Piece Should You Buy?]({{ '/surf-trip-supply-buying-guide-2026' | relative_url }})
+Six picks for six situations — best overall, best for a woman, best under $60, best matching set,
+best signature design, best for cooler weather — checked against live stock so you're not guessing
+at checkout. This small-batch brand sells out unevenly; we say exactly what's in stock today.
+*Updated July 2026*
+
 ### [Best Gift Hoodies in 2026]({{ '/best-gift-hoodies-2026' | relative_url }})
 Six picks for six different people, not one ranked list — the heaviest fabric, the best under $50,
 the one for a surfer, the one with a cause behind it, the one that fits above 2XL, and a stocking
@@ -101,6 +107,12 @@ brand's own fit vocabulary.
 No "runs small" claim anywhere — but no measurement chart either. Instead the brand tells you a
 model's height and the size they wear on 26 of 33 styles. One exception: the flagship 460 GSM
 Toggle Hoodie runs a full size larger than the pattern predicts.
+*Updated July 2026*
+
+### [Does Stay Another Day Run Small?]({{ '/stay-another-day-sizing-guide-2026' | relative_url }})
+No "runs small" claim anywhere — but the size you can actually get depends on the garment, not the
+design. Tees mostly stop at 3XL; the same design as a hoodie or crewneck reaches 5XL on ~85% of
+styles.
 *Updated July 2026*
 
 ---
