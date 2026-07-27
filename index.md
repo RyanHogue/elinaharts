@@ -17,6 +17,12 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## ðŸ§¥ Buying guides
 
+### [Oversized Hoodie + Leggings: The Back-to-School Outfit Trending for 2026]({{ '/oversized-hoodie-leggings-outfit-2026' | relative_url }})
+Four real, in-stock hoodies picked to match the oversized-hoodie-and-leggings combo showing up across
+2026 back-to-school trend forecasts, plus honest styling guidance for the leggings and sneakers we
+don't sell - no invented product pick.
+*Updated July 2026*
+
 ### [Best Kids's School Shoes & Clothing Under $100 (Tax-Free Weekend Guide)]({{ '/best-kids-back-to-school-under-100-2026' | relative_url }})
 Four brands for kids' back-to-school essentials - shoes and clothing - all under $100 to qualify for tax-free shopping on August 7–9, 2026. We ranked picks by size range, durability specs, and price, plus exclusive coupon codes from each brand.
 *Updated July 2026*
