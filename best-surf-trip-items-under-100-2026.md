@@ -1,5 +1,5 @@
 ---
-title: Best Surf Trip Supply Items Under $100 — 2026 Buying Guide
+title: Best Surf Trip Supply Items Under $100 - 2026 Buying Guide
 description: Top picks from Surf Trip Supply for first-time buyers under $100, with actual sizing and availability data.
 author: Elina Harts
 date: 2026-07-27
@@ -38,7 +38,7 @@ We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
 
 ## The 5 Best Items Under $100
 
-### 1. Ripper Hoodie Brown — $98 ⭐ Best Overall Value
+### 1. Ripper Hoodie Brown - $98 [Best Overall Value]
 
 **Why it wins:** This is the rare Surf Trip item with a real GSM spec (460 GSM) at an honest price. At $0.21/gram, it's **cheaper than Jamroc** (which averages $0.34/gram) while still using quality fabric.
 
@@ -50,7 +50,7 @@ We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
 
 ---
 
-### 2. Ripper Tee Brown — $55 🏆 Best Budget Pick
+### 2. Ripper Tee Brown - $55 [Best Budget Pick]
 
 **Why it wins:** At $55 for a graphic tee with model-height documentation, this is unbeatable. Surf Trip actually lists "model 5'9" wearing size S" — that's transparency most brands skip.
 
@@ -62,7 +62,7 @@ We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
 
 ---
 
-### 3. Sea Shell Zipup Hoodie Butter — $89 🌊 Best for Layering
+### 3. Sea Shell Zipup Hoodie Butter - $89 [Best for Layering]
 
 **Why it wins:** Not every Surf Trip item comes with GSM specs, but this one does — 240 GSM makes it the **lightest hoodie on the site**. Perfect for spring/fall or layering under outerwear.
 
@@ -74,7 +74,7 @@ We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
 
 ---
 
-### 4. Shark Hoodie — $98 💯 Best Signature Design
+### 4. Shark Hoodie - $98 [Best Signature Design]
 
 **Why it wins:** The Shark design is Surf Trip's most recognizable piece. It's also their most documented — we see model height **on all size options**.
 
@@ -87,7 +87,7 @@ We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
 
 ---
 
-### 5. Shark Knit Sweater Navy — $84 🧥 Best Warmth-to-Price
+### 5. Shark Knit Sweater Navy - $84 [Best Warmth-to-Price]
 
 **Why it wins:** At 260 GSM and $84, this is the **only knit sweater under $100** on the site. Knit = breathable + structured, unlike fleece hoodies.
 

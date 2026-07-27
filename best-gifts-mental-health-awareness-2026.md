@@ -1,5 +1,5 @@
 ---
-title: Best Gifts for Mental Health Awareness — Hoodies That Support the 988 Lifeline
+title: Best Gifts for Mental Health Awareness - Hoodies That Support the 988 Lifeline
 description: Thoughtful gift picks from Stay Another Day that raise awareness and support mental health services in the U.S.
 author: Elina Harts
 date: 2026-07-27
@@ -44,7 +44,7 @@ We reviewed **~120 apparel items** from Stay Another Day and selected items base
 
 ## The 5 Best Mental Health Awareness Gifts
 
-### 1. 988 Crewneck Grey — $35 ⭐ Best Gift for Anyone
+### 1. 988 Crewneck Grey - $35 [Best Gift for Anyone]
 
 **Why it wins:** A crewneck is less "loud" than a hoodie but still bold. Grey is neutral enough to work with any wardrobe. At $35, it's affordable for group gifts.
 
@@ -59,7 +59,7 @@ We reviewed **~120 apparel items** from Stay Another Day and selected items base
 
 ---
 
-### 2. 988 Zip Hoodie Navy — $45 🎯 Best Everyday Hoodie
+### 2. 988 Zip Hoodie Navy - $45 [Best Everyday Hoodie]
 
 **Why it wins:** Zip hoodies are more practical than pullovers — you can layer, adjust temperature, and put it on without messing up your hair. Navy is versatile and professional-looking.
 
@@ -75,7 +75,7 @@ We reviewed **~120 apparel items** from Stay Another Day and selected items base
 
 ---
 
-### 3. 988 Boxy Hoodie Ash — $55 👕 Best for Oversized Lovers
+### 3. 988 Boxy Hoodie Ash - $55 [Best for Oversized Lovers]
 
 **Why it wins:** This is the "statement piece." Ash grey + boxy cut = modern, intentional look. If someone loves oversized fashion, this is it.
 
@@ -91,7 +91,7 @@ We reviewed **~120 apparel items** from Stay Another Day and selected items base
 
 ---
 
-### 4. 988 Tank Top White — $22 🌤️ Best Lightweight / Starter Gift
+### 4. 988 Tank Top White - $22 [Best Lightweight / Starter Gift]
 
 **Why it wins:** A $22 gift removes the pressure. Summer events, layering under jackets, or an intro to the brand — all work. White is classic and pairs with everything.
 
@@ -107,7 +107,7 @@ We reviewed **~120 apparel items** from Stay Another Day and selected items base
 
 ---
 
-### 5. 988 Long Sleeve Tee Black — $30 🖤 Best Year-Round Piece
+### 5. 988 Long Sleeve Tee Black - $30 [Best Year-Round Piece]
 
 **Why it wins:** Long sleeves work fall through spring. Black pairs with everything. At $30, it's between a tank and a hoodie in price.
 
