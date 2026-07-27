@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Zeepk Sports Shoes & Apparel Buying Guide 2026: Which Style is Right for Your Kid?"
+---
+
 # Zeepk Sports Shoes & Apparel Buying Guide 2026: Which Style is Right for Your Kid?
 
 **Disclosure:** We analyzed Zeepk Sports' product catalog, material specifications, and verified customer reviews to create this guide. We have an affiliate partnership with Zeepk Sports and earn commissions when readers use our links. This does not affect our recommendations — we feature Zeepk Sports because the brand offers strong value on athletic hybrid styles.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Consciously Baby Sizing Guide 2026: Does It Run Small?"
+---
+
 # Consciously Baby Sizing Guide 2026: Does It Run Small?
 
 **Disclosure:** We analyzed Consciously Baby's product catalog, sizing specifications, and verified customer reviews to create this guide. We have an affiliate partnership with Consciously Baby and earn commissions when readers use our links. This does not affect our recommendations — we provide sizing guidance based on actual customer fit reports.
