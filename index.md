@@ -17,6 +17,11 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## ðŸ§¥ Buying guides
 
+### [Best Funny Hoodies from Comphies (2026)]({{ '/best-funny-hoodies-comphies-2026' | relative_url }})
+Comphies makes humor hoodies at $43–58 with size ranges up to 5XL. We ranked 10 designs by
+availability, price, and size range — no GSM data published, so these are novelty apparel, not
+performance hoodies. Best for bold humor over classic style.
+*Updated July 2026*
 ### [Which Surf Trip Supply Piece Should You Buy?]({{ '/surf-trip-supply-buying-guide-2026' | relative_url }})
 Six picks for six situations â€” best overall, best for a woman, best under $60, best matching set,
 best signature design, best for cooler weather â€” checked against live stock so you're not guessing
