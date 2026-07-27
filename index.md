@@ -17,6 +17,10 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## ðŸ§¥ Buying guides
 
+### [Best Kids's School Shoes & Clothing Under $100 (Tax-Free Weekend Guide)]({{ '/best-kids-back-to-school-under-100-2026' | relative_url }})
+Four brands for kids' back-to-school essentials - shoes and clothing - all under $100 to qualify for tax-free shopping on August 7–9, 2026. We ranked picks by size range, durability specs, and price, plus exclusive coupon codes from each brand.
+*Updated July 2026*
+
 ### [Best Funny Hoodies from Comphies (2026)]({{ '/best-funny-hoodies-comphies-2026' | relative_url }})
 Comphies makes humor hoodies at $43–58 with size ranges up to 5XL. We ranked 10 designs by
 availability, price, and size range — no GSM data published, so these are novelty apparel, not
