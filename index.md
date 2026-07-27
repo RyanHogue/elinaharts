@@ -67,6 +67,11 @@ versus who should buy cheaper.
 ### [Jamroc Coupon Code RYANHOGUE - Save 10% on Your First Hoodie]({{ '/jamroc-coupon-ryanhogue-2026' | relative_url }})
 New to Jamroc? Use code `RYANHOGUE` for 10% off - we walk through five situations (cold sleeper, tight budget, plus-size, gift shopping, streetwear style) and show you which hoodie to pick by fabric weight, price, and size range.
 *Updated July 2026*
+
+### [Farm Brand Coupon Code RYANHOGUE - Save 20% on Graphic Tees & Hoodies]({{ '/farm-brand-coupon-ryanhogue-2026' | relative_url }})
+Same code works on Farm Brand - 20% off sitewide with no minimum purchase. We show you the best value picks and what 20% actually saves on tees ($5) and hoodies ($8-13).
+*Updated July 2026*
+
 ### [Is Surf Trip Supply Worth It?]({{ '/is-surf-trip-supply-worth-it-2026' | relative_url }})
 Surf Trip Supply sells $80-98 hand-drawn surf hoodies in small US batches. We broke down its
 published data - fabric, fit, sizing and stock - including a 460 GSM hoodie at $98 that beats
