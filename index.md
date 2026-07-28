@@ -47,6 +47,18 @@ A close look at the brand's newest drop - three hoodies and a denim jacket - usi
 fit notes (model height and size worn) and live stock, checked the day we wrote this.
 *Updated July 2026*
 
+### [Surf Trip Supply Summer Travel Capsule (2026)]({{ '/surf-trip-supply-summer-travel-capsule-2026' | relative_url }})
+Swim trunks, sandals, linen pants, and a boxy button-up - the resort-wear side of the catalog our
+hoodie-focused guides didn't cover. Six pieces for a beach trip, checked against live stock and the
+brand's own fit notes.
+*Updated July 2026*
+
+### [Father's Day Gift Hoodies (2027)]({{ '/fathers-day-gift-hoodies-2027' | relative_url }})
+Clothing is the #1 Father's Day gift category (58% of shoppers, per NRF/Prosper survey data).
+Five picks matched to five kinds of dad - heaviest fabric, widest sizing, surf-brand loyalist,
+budget-friendly, and cause-driven - across all four brands we track, checked against live stock.
+*Updated July 2026*
+
 ### [Best Surf Trip Supply Items Under $100 (2026)]({{ '/best-surf-trip-items-under-100-2026' | relative_url }})
 Five picks for first-time buyers under $100, with actual sizing and availability pulled from the
 brand's live catalog - including a correction on a GSM figure we'd mixed up between two products in
