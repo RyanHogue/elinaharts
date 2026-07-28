@@ -11,11 +11,11 @@ report - so you can tell the difference between a good product page and a good p
 
 We don't personally test what we write about. Every claim here is traceable to a manufacturer's
 own spec sheet or to published customer reviews, and we say so on every page.
-[**How we review â†’**]({{ '/about' | relative_url }})
+[**How we review →**]({{ '/about' | relative_url }})
 
 ---
 
-## ðŸ§¥ Buying guides
+## 🧥 Buying guides
 
 ### [Oversized Hoodie + Leggings: The Back-to-School Outfit Trending for 2026]({{ '/oversized-hoodie-leggings-outfit-2026' | relative_url }})
 Four real, in-stock hoodies picked to match the oversized-hoodie-and-leggings combo showing up across
@@ -23,15 +23,19 @@ Four real, in-stock hoodies picked to match the oversized-hoodie-and-leggings co
 don't sell - no invented product pick.
 *Updated July 2026*
 
-### [Best Kids's School Shoes & Clothing Under $100 (Tax-Free Weekend Guide)]({{ '/best-kids-back-to-school-under-100-2026' | relative_url }})
-Four brands for kids' back-to-school essentials - shoes and clothing - all under $100 to qualify for tax-free shopping on August 7–9, 2026. We ranked picks by size range, durability specs, and price, plus exclusive coupon codes from each brand.
+### [Tax-Free Weekend 2026: Hoodies & Tees Under $100]({{ '/best-kids-back-to-school-under-100-2026' | relative_url }})
+Texas's tax-free weekend runs August 7-9; Florida's runs July 20-August 20 — both exempt clothing
+under $100. We checked our four affiliate brands against that line: Stay Another Day and Surf Trip
+Supply clear it almost entirely, Farm Brand mostly, and Jamroc only on 8 of 47 hoodies.
 *Updated July 2026*
 
 ### [Best Funny Hoodies from Comphies (2026)]({{ '/best-funny-hoodies-comphies-2026' | relative_url }})
-Comphies makes humor hoodies at $43–58 with size ranges up to 5XL. We ranked 10 designs by
+Comphies makes humor hoodies at $39–58 with size ranges up to 5XL. We ranked designs by
 availability, price, and size range — no GSM data published, so these are novelty apparel, not
-performance hoodies. Best for bold humor over classic style.
+performance hoodies. Content note: this is an adult-humor brand; we kept picks to designs short of
+explicit or political content.
 *Updated July 2026*
+
 ### [Which Surf Trip Supply Piece Should You Buy?]({{ '/surf-trip-supply-buying-guide-2026' | relative_url }})
 Six picks for six situations - best overall, best for a woman, best under $60, best matching set,
 best signature design, best for cooler weather - checked against live stock so you're not guessing
@@ -44,14 +48,21 @@ fit notes (model height and size worn) and live stock, checked the day we wrote 
 *Updated July 2026*
 
 ### [Best Surf Trip Supply Items Under $100 (2026)]({{ '/best-surf-trip-items-under-100-2026' | relative_url }})
-Five picks for first-time buyers, all under $100 and in stock today - the 460 GSM hoodie that beats premium brands on cost-per-gram, the $55 tee with model-height documentation, and three more pieces with real sizing data. Includes when to skip Surf Trip (sizes stop at XL on most items).
+Five picks for first-time buyers under $100, with actual sizing and availability pulled from the
+brand's live catalog - including a correction on a GSM figure we'd mixed up between two products in
+an earlier version of this page.
 *Updated July 2026*
-
 
 ### [Stay Another Day: Embroidered vs. Screen Printed]({{ '/stay-another-day-embroidered-vs-screen-printed-2026' | relative_url }})
 Stay Another Day sells the same core designs in two versions for a consistent $7-8 price gap. We
 compared the brand's own product data to show the blank garment is identical - the extra money buys
 a decoration technique, not a heavier hoodie.
+*Updated July 2026*
+
+### [Best Stay Another Day Hoodies (2026): Which One Should You Buy?]({{ '/best-stay-another-day-hoodies-2026' | relative_url }})
+The catalog has 31 different adult hoodie designs beyond the 988 line. We picked one for each common
+situation - cheapest full-size option, no-graphic solid color, boldest design, Pride Month, a
+Valentine's pick - plus the two designs that quietly cap at 3XL instead of the usual 5XL.
 *Updated July 2026*
 
 ### [Best Gift Hoodies in 2026]({{ '/best-gift-hoodies-2026' | relative_url }})
@@ -61,9 +72,10 @@ stuffer under $30. Checked against live stock the day we wrote it.
 *Updated July 2026*
 
 ### [Best Gifts for Mental Health Awareness (2026)]({{ '/best-gifts-mental-health-awareness-2026' | relative_url }})
-Five picks that support the 988 Lifeline - crewneck, zip hoodie, boxy hoodie, tank, and long-sleeve tee from $22–$55, all in sizes S–5XL. We show what the brand actually donates, who should NOT buy (plus-size stops at 5XL, strong message = strong statement), and why the number 988 matters.
+The four real pieces in Stay Another Day's 988 line - t-shirt, long sleeve, crewneck, and hoodie
+from $28-$55. The hoodie and crewneck reach 5XL; the t-shirt and long sleeve stop lower. We show
+what the brand actually donates and why the number 988 matters.
 *Updated July 2026*
-
 
 ### [Best Heavyweight Hoodies in 2026]({{ '/best-heavyweight-hoodies-2026' | relative_url }})
 "Heavyweight" is the most abused word in hoodies. We ranked real heavyweight hoodies by published
@@ -72,7 +84,7 @@ what you're actually paying for. Includes a $/100-GSM value table.
 *Updated July 2026*
 
 ### [Best Graphic Tees Under $50 in 2026]({{ '/best-graphic-tees-under-50-2026' | relative_url }})
-Under $50 buys a 360 GSM heavyweight tee or a 142 GSM summer-weight one - same money, 2.5Ã— the
+Under $50 buys a 360 GSM heavyweight tee or a 142 GSM summer-weight one - same money, 2.5× the
 fabric. We ranked graphic tees across three brands by the thing the photo can't show: what the shirt
 is actually made of.
 *Updated July 2026*
@@ -83,25 +95,28 @@ Jamroc charges $165 for a hoodie. We broke down exactly what that money buys - 5
 versus who should buy cheaper.
 *Updated July 2026*
 
-
-### [Jamroc Coupon Code RYANHOGUE - Save 10% on Your First Hoodie]({{ '/jamroc-coupon-ryanhogue-2026' | relative_url }})
-New to Jamroc? Use code `RYANHOGUE` for 10% off - we walk through five situations (cold sleeper, tight budget, plus-size, gift shopping, streetwear style) and show you which hoodie to pick by fabric weight, price, and size range.
+### [Jamroc Dept: How to Pick a Hoodie by GSM, Fit, and Budget]({{ '/jamroc-coupon-ryanhogue-2026' | relative_url }})
+New to Jamroc? We walk through five situations (cold sleeper, tight budget, plus-size, gift
+shopping, streetwear style) and show you which hoodie to pick by fabric weight, price, and size
+range. (Note: we could not confirm a discount code exists for this brand.)
 *Updated July 2026*
 
-### [Farm Brand Coupon Code RYANHOGUE - Save 20% on Graphic Tees & Hoodies]({{ '/farm-brand-coupon-ryanhogue-2026' | relative_url }})
-Same code works on Farm Brand - 20% off sitewide with no minimum purchase. We show you the best value picks and what 20% actually saves on tees ($5) and hoodies ($8-13).
+### [Farm Brand USA: What to Buy and Why]({{ '/farm-brand-coupon-ryanhogue-2026' | relative_url }})
+The one Farm Brand hoodie with a published fabric weight (Just Right Surf Hoodie, ~281 GSM, $40)
+versus the cheapest entry point (Plain T-Shirt, $24). (Note: we could not confirm a discount code
+exists for this brand.)
 *Updated July 2026*
 
 ### [Is Surf Trip Supply Worth It?]({{ '/is-surf-trip-supply-worth-it-2026' | relative_url }})
+Surf Trip Supply sells $55-98 hand-drawn surf hoodies and tees in small US batches. We broke down
+its published data - fabric, fit, sizing and stock - and who should skip it (sizing stops at XL
+on most items).
+*Updated July 2026*
 
 ### [Is Production Apparel Worth It? Budget Streetwear Compared (2026)]({{ '/is-production-apparel-worth-it-2026' | relative_url }})
 Production Apparel sells graphic tees and hoodies at $24–35. We compared its 234 products against
 Jamroc ($68+) and Farm Brand ($40–89) to show price-to-value trade-offs and who it's actually
 for. Best for budget shoppers; skip if you need GSM specs or extended sizes.
-*Updated July 2026*
-Surf Trip Supply sells $80-98 hand-drawn surf hoodies in small US batches. We broke down its
-published data - fabric, fit, sizing and stock - including a 460 GSM hoodie at $98 that beats
-premium brands on cost per gram, and who should skip it (sizing stops at XL).
 *Updated July 2026*
 
 ### [Stay Another Day Review: The Mental-Health Apparel Brand]({{ '/stay-another-day-review-2026' | relative_url }})
@@ -124,7 +139,7 @@ guide.
 
 ---
 
-## ðŸ‘• Streetwear brand guides
+## 👕 Streetwear brand guides
 
 ### [Best Jamaican & Caribbean Streetwear Brands in 2026]({{ '/best-jamaican-caribbean-streetwear-brands-2026' | relative_url }})
 Six Caribbean-rooted labels compared across 860 live products - real prices, published fabric
@@ -146,7 +161,7 @@ hoodie fabric per dollar; Jamroc is the only one selling a heavyweight tee at al
 
 ---
 
-## ðŸ“ Sizing guides - "does it run small?"
+## 📏 Sizing guides - "does it run small?"
 
 ### [Does Jamroc Dept. Run Small?]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }})
 Short answer: no - it runs large, and the size chart is easy to misread. Built from measurement
@@ -174,12 +189,32 @@ styles.
 
 ---
 
-## ðŸ‘Ÿ More guides
+## 👟 More guides
 
 ### [The Best Sensory-Friendly School Shoes for Kids in 2026]({{ '/best-sensory-friendly-school-shoes-2026' | relative_url }})
 A back-to-school buying guide for parents of kids with sensory processing differences, autism,
 ADHD, or foot-brace needs. Ten shoes compared on entry method, interior construction, width
 range, AFO compatibility and washability.
+*Updated July 2026*
+
+### [Suadex Steel Toe Work Shoes: What They Actually Are (2026)]({{ '/suadexshoes-review-2026' | relative_url }})
+Corrected 2026-07-27: this is an adult steel-toe safety/work shoe brand, not kids' school shoes. A
+straight look at what's actually in the catalog ($40–$57, boots and sneakers).
+*Updated July 2026*
+
+### [Consciously Baby: What the Brand Actually Sells (2026)]({{ '/consciously-baby-sizing-guide-2026' | relative_url }})
+Corrected 2026-07-27: this brand sells baby/toddler soft-sole boots and women's graphic tees — not
+school-age kids' clothing. What's actually in the catalog.
+*Updated July 2026*
+
+### [Wonder Hoodie: What the Brand Actually Sells (2026)]({{ '/wonder-hoodie-review-2026' | relative_url }})
+Corrected 2026-07-27: this is a body-armor brand (IIIA-rated bulletproof hoodies and jackets,
+$295–$975), not a durable everyday kids' hoodie brand. What's actually in the catalog.
+*Updated July 2026*
+
+### [Zeepk Sports: What the Brand Actually Sells (2026)]({{ '/zeepk-sports-buying-guide-2026' | relative_url }})
+Corrected 2026-07-27: this brand sells cricket bats and combat-sport gear ($10–$50) — no shoes, no
+apparel. What's actually in the catalog.
 *Updated July 2026*
 
 ---
@@ -195,21 +230,4 @@ everything is perfect is an advertisement, not a guide.
 **We disclose.** Pages with affiliate links say so at the top, before the content - and no one
 here has physically handled the items; every spec comes from published data.
 
-[Read our full method â†’]({{ '/about' | relative_url }})
-
-
-### [Suadexshoes Kids' Shoes Review 2026: Worth It for Back-to-School?]({{ '/suadexshoes-review-2026' | relative_url }})
-Suadexshoes charges $45–$95 for kids' sneakers with reinforced toe caps, breathable mesh uppers, and strong durability reports. We broke down the material specs and compared price-to-value against mainstream brands to show who should buy and who should skip.
-*Updated July 2026*
-
-### [Consciously Baby Sizing Guide 2026: Does It Run Small?]({{ '/consciously-baby-sizing-guide-2026' | relative_url }})
-No, Consciously Baby runs true to size — but it's intentionally relaxed fit by design. We analyzed 40+ customer reviews and the brand's sizing specs to show how to measure correctly and whether to size down.
-*Updated July 2026*
-
-### [Wonder Hoodie Review 2026: Is It Worth the $35–$89 Price?]({{ '/wonder-hoodie-review-2026' | relative_url }})
-Wonder Hoodie publishes fabric weight specs (11–14 oz typical). We ranked hoodies by durability, construction quality, and customer longevity reports — showing why the published weight number matters and who it's worth the price for.
-*Updated July 2026*
-
-### [Zeepk Sports Shoes & Apparel Buying Guide 2026: Which Style is Right?]({{ '/zeepk-sports-buying-guide-2026' | relative_url }})
-Zeepk Sports sells hybrid athletic shoes and apparel at $38–$99. We analyzed their sizing, material specs, and durability to show which pieces work for PE class, playground use, and casual wear.
-*Updated July 2026*
+[Read our full method →]({{ '/about' | relative_url }})

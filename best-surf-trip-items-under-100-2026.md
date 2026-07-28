@@ -1,6 +1,6 @@
 ---
 title: Best Surf Trip Supply Items Under $100 - 2026 Buying Guide
-description: Top picks from Surf Trip Supply for first-time buyers under $100, with actual sizing and availability data.
+description: Top picks from Surf Trip Supply for first-time buyers under $100, with actual sizing and availability data pulled directly from the brand's live catalog.
 author: Elina Harts
 date: 2026-07-27
 permalink: /best-surf-trip-items-under-100-2026
@@ -8,158 +8,140 @@ permalink: /best-surf-trip-items-under-100-2026
 
 # Best Surf Trip Supply Items Under $100 — 2026 Buying Guide
 
-**FTC Disclosure:** This post contains affiliate links from Surf Trip Supply. We may earn a commission if you make a purchase through our links at no additional cost to you. [Full disclosure](/#ftc).
+**FTC Disclosure:** This post contains affiliate links from Surf Trip Supply. We may earn a commission if you make a purchase through our links at no additional cost to you. I have not personally tested these products — picks are based on the brand's own published specifications and live stock data. [Full disclosure](/#ftc).
 
-If you're new to Surf Trip Supply and want quality streetwear without breaking the bank, we've picked the 5 best items under $100 that deserve your attention.
+If you're new to Surf Trip Supply and want quality streetwear without breaking the bank, here are five picks under $100, checked against the brand's live product data.
 
 ## Quick Picks
 
 | Item | Price | Size Range | Why Pick It |
 |------|-------|-----------|-----------|
-| [Ripper Hoodie Brown](https://surftripsupply.com/products/ripper-hoodie-brown?ref=wbaiwbch) | $98 | XS–XL | Fits true to size, all sizes in stock |
-| [Ripper Tee Brown](https://surftripsupply.com/products/ripper-tee?ref=wbaiwbch) | $55 | S–XL | $0.11/oz — excellent value |
-| [Sea Shell Zipup Hoodie Butter](https://surftripsupply.com/products/sea-shell-zipup-hoodie-butter?ref=wbaiwbch) | $89 | XS–L | Lightweight, summer-ready zip |
-| [Shark Hoodie](https://surftripsupply.com/products/shark-hoodie?ref=wbaiwbch) | $98 | XS–XL | Signature design, reliable fit |
-| [Shark Knit Sweater Navy](https://surftripsupply.com/products/shark-knit-sweater-navy?ref=wbaiwbch) | $84 | S–XL | 260 GSM knit, winter-ready |
+| [Ripper Hoodie Brown](https://surftripsupply.com/?ref=wbaiwbch) | $98 | S–XL | 100% cotton, fully stocked, brand's general "true to size" reference point |
+| [Ripper Tee Brown](https://surftripsupply.com/?ref=wbaiwbch) | $55 | ⚠️ M/L only | Cheapest apparel item under $100 |
+| [Sea Shell Zipup Hoodie Butter](https://surftripsupply.com/?ref=wbaiwbch) | $89 | ⚠️ S–L, XL sold out | One of the few women's-labeled pieces |
+| [Shark Hoodie (Butter/Blue)](https://surftripsupply.com/?ref=wbaiwbch) | $98 | S–XL | Brand's signature screen-printed design |
+| [Shark Knit Sweater Navy](https://surftripsupply.com/?ref=wbaiwbch) | $84 | S–XL | Only item under $100 with a published GSM (260) |
+
+⚠️ **Correction (2026-07-27):** An earlier version of this page listed the Ripper Hoodie at "460 GSM." That number belongs to the **Toggle Hoodie**, a different product that is currently **sold out in every size** — not the Ripper Hoodie, which the brand lists only as "100% cotton" with no GSM published. We've corrected the mix-up below.
 
 ## How We Chose
 
-We reviewed all 33 apparel items from Surf Trip Supply and scored each on:
+We pulled Surf Trip Supply's live product feed and scored each apparel item on:
 
-1. **Price ≤$100** — No exceptions
-2. **Size documentation** — Does Surf Trip list model height/size worn?
-3. **Availability** — In stock across most sizes as of July 27, 2026
-4. **GSM/weight spec** — When provided (rare on STS)
-5. **Fit consistency** — Does 1 model size = most customers?
+1. **Price ≤$100** — no exceptions
+2. **Size documentation** — does the brand list a model's height and the size worn?
+3. **Availability** — in stock as of the date below, not "usually in stock"
+4. **GSM/weight spec** — only when the brand actually publishes it (rare on this site)
+5. **Fit consistency** — does the fit note match the brand's general sizing pattern
 
-**Note:** Surf Trip Supply uses small-batch production. Sizes can sell out within days. Check stock before checkout.
+**Note:** Surf Trip Supply is small-batch. Sizes and even entire styles sell out and don't always restock on a schedule — check current stock before buying.
 
 ---
 
 ## The 5 Best Items Under $100
 
-### 1. Ripper Hoodie Brown - $98 [Best Overall Value]
+### 1. Ripper Hoodie Brown - $98 [Best Overall / Safest First Order]
 
-**Why it wins:** This is the rare Surf Trip item with a real GSM spec (460 GSM) at an honest price. At $0.21/gram, it's **cheaper than Jamroc** (which averages $0.34/gram) while still using quality fabric.
+**Why it wins:** 100% cotton, and the brand describes the model (5'10") as wearing a Large "for a perfect fit" — a useful anchor since Surf Trip doesn't publish a size chart. This item does **not** have a published GSM; treat any "460 GSM" claim for this specific product as incorrect.
 
-- **Size chart:** Model 6'2", wearing size M, says "fits oversized"
-- **Stock (July 27, 2026):** All sizes M–XL in stock; S still available
-- **Our verdict:** Order true to size unless you prefer a snug fit
+- **Stock (checked July 27, 2026):** S–XL in stock
+- **Our verdict:** A safe default pick since it's fully stocked and matches the brand's general sizing pattern
 
-**Buy:** [Ripper Hoodie Brown on Surf Trip Supply](https://surftripsupply.com/products/ripper-hoodie-brown?ref=wbaiwbch)
-
----
-
-### 2. Ripper Tee Brown - $55 [Best Budget Pick]
-
-**Why it wins:** At $55 for a graphic tee with model-height documentation, this is unbeatable. Surf Trip actually lists "model 5'9" wearing size S" — that's transparency most brands skip.
-
-- **Fabric:** Standard weight (estimated 142 GSM / 4.2 oz)
-- **Stock (July 27, 2026):** S–XL in stock
-- **Our verdict:** Size true to normal tee. Works for layering under hoodies.
-
-**Buy:** [Ripper Tee Brown on Surf Trip Supply](https://surftripsupply.com/products/ripper-tee?ref=wbaiwbch)
+**Buy:** [Ripper Hoodie Brown on Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
 
 ---
 
-### 3. Sea Shell Zipup Hoodie Butter - $89 [Best for Layering]
+### 2. Ripper Tee Brown - $55 [Cheapest Apparel Item]
 
-**Why it wins:** Not every Surf Trip item comes with GSM specs, but this one does — 240 GSM makes it the **lightest hoodie on the site**. Perfect for spring/fall or layering under outerwear.
+**Why it wins:** The lowest-priced apparel piece under $100 in the catalog, with a specific fit note from the brand.
 
-- **Fit note:** Model height 5'9" wearing size M (tighter fit than Ripper)
-- **Stock (July 27, 2026):** ⚠️ XL is sold out; S–M available
-- **Our verdict:** Size down if between sizes. The butter color is exclusive to STS.
+- **Fabric:** Not published (no GSM or oz listed for this item)
+- **Stock (checked July 27, 2026):** ⚠️ Only M and L in stock — S and XL are sold out
+- **Our verdict:** Good budget pick only if your size is M or L right now
 
-**Buy:** [Sea Shell Zipup Hoodie Butter on Surf Trip Supply](https://surftripsupply.com/products/sea-shell-zipup-hoodie-butter?ref=wbaiwbch)
-
----
-
-### 4. Shark Hoodie - $98 [Best Signature Design]
-
-**Why it wins:** The Shark design is Surf Trip's most recognizable piece. It's also their most documented — we see model height **on all size options**.
-
-- **Fabric:** 400+ GSM (actual GSM not listed, but weight is substantial)
-- **Model reference:** 5'9"–6'2" heights show consistent sizing across the board
-- **Stock (July 27, 2026):** All sizes S–XL available
-- **Our verdict:** This item rarely goes on sale. If you love it, buy now.
-
-**Buy:** [Shark Hoodie on Surf Trip Supply](https://surftripsupply.com/products/shark-hoodie?ref=wbaiwbch)
+**Buy:** [Ripper Tee Brown on Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
 
 ---
 
-### 5. Shark Knit Sweater Navy - $84 [Best Warmth-to-Price]
+### 3. Sea Shell Zipup Hoodie Butter - $89 [Best Women's-Labeled Piece]
 
-**Why it wins:** At 260 GSM and $84, this is the **only knit sweater under $100** on the site. Knit = breathable + structured, unlike fleece hoodies.
+**Why it wins:** One of the few pieces the brand explicitly labels a "Female hoodie" — 100% cotton, modeled by someone 5'4" wearing a Medium "for the perfect fit." No GSM is published for this item.
 
-- **Sizing:** True to size (model 5'10" wearing size M)
-- **Stock (July 27, 2026):** ⚠️ XXL is sold out; S–XL fully stocked
-- **Our verdict:** This knit won't pill like budget alternatives. Worth the price.
+- **Stock (checked July 27, 2026):** ⚠️ S, M and L in stock; **XL is sold out**. The listing itself says "very limited quantities."
+- **Our verdict:** Order soon if your size is in stock — this style runs out unevenly
 
-**Buy:** [Shark Knit Sweater Navy on Surf Trip Supply](https://surftripsupply.com/products/shark-knit-sweater-navy?ref=wbaiwbch)
+**Buy:** [Sea Shell Zipup Hoodie Butter on Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
+
+---
+
+### 4. Shark Hoodie (Butter or Blue) - $98 [Signature Design]
+
+**Why it wins:** The brand's most recognizable screen-printed design, 100% cotton, labeled "limited edition." Model note: 5'4" wearing a Large "for an oversized fit" — so this one runs looser than the Ripper Hoodie's true-to-size reference.
+
+- **Stock (checked July 27, 2026):** Both colorways fully stocked S–XL
+- **Our verdict:** Good pick if you specifically want the brand's signature graphic and prefer an oversized fit
+
+**Buy:** [Shark Hoodie on Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
+
+---
+
+### 5. Shark Knit Sweater Navy - $84 [Only Published GSM Under $100]
+
+**Why it wins:** The one item in this price range with a real, published fabric weight: **260 GSM**, a 40% wool / 40% polyester / 20% acrylic jacquard knit — a genuinely different material from the brand's cotton hoodies, closer to a sweater. Model is 5'10" wearing a Large, described as a "loose, boxy fit."
+
+- **Stock (checked July 27, 2026):** S–XL fully stocked
+- **Our verdict:** The best-documented purchase on this list if you want to know exactly what you're buying
+
+**Buy:** [Shark Knit Sweater Navy on Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
+
+---
+
+## What we're NOT recommending, and why
+
+**The Toggle Hoodie** — the brand's actual 460 GSM piece, thermal-lined hood, described as fitting oversized — **is sold out in every size** as of this writing. It's not on this list because you can't currently buy it. If you've seen it recommended elsewhere, that's why; it was in stock when reviewed and this is a small-batch brand where stock changes fast.
 
 ---
 
 ## Who Should NOT Buy from Surf Trip Supply Under $100
 
-- **Size 2XL+ shoppers:** Surf Trip only stocks up to XL on most items. Only the Brown Sweatset (2-piece, $130) goes to XXL, but it's over our $100 limit.
-- **People who hate waiting:** Small-batch production means restocks are slow. If your size sells out, expect 2–4 weeks.
-- **Graphic-tee collectors:** Surf Trip focuses on solid colors and signature designs (Shark, Ripper). If you want wild prints, try Farm Brand or Cooyah instead.
-
----
-
-## What to Look For at Surf Trip Supply
-
-Surf Trip Supply publishes **model height + size worn** on ~80% of items. This is their biggest advantage over competitors who don't document fit at all.
-
-**Quick rule:** If the model is your height, match their size. If taller, size down 1; if shorter, size up 1.
-
-**Cookie window:** Surf Trip Supply uses ShareASale (now Awin) with a **30-day cookie**. You have 30 days from click to purchase for us to earn commission.
-
----
-
-## How Surf Trip Compares
-
-| Brand | Price Range | GSM Public? | Max Size | Best For |
-|-------|-------------|------------|----------|----------|
-| **Surf Trip Supply** | $25–135 | Rarely | XL (most items) | Signature designs + model height docs |
-| Jamroc Dept | $19–225 | 78+ items | 6XL | Heavy weight + plus-size |
-| Farm Brand USA | $20–200 | Rarely | 3XL | Budget hoodie (281 GSM / $40) |
-| Stay Another Day | $6–75 | Never | 5XL | 988 Mission + beginner price |
+- **Size 2XL+ shoppers:** the catalog tops out at XL on nearly every style.
+- **People who hate waiting:** small-batch production means restocks are slow and not scheduled.
+- **Buyers who need a specific size guaranteed:** several of these five picks are already missing at least one size.
 
 ---
 
 ## FAQ
 
 **Q: Does Surf Trip Supply ship internationally?**
-A: Not confirmed in product listings. Check at checkout.
+A: Not confirmed in the product data we pulled. Check at checkout.
 
 **Q: What if my size sells out?**
-A: Restock times vary. Most items return within 2–4 weeks. Sign up for email alerts on the product page.
+A: No published restock schedule. Check the product page directly or watch for email alerts if the brand offers them.
 
-**Q: Is Surf Trip's quality worth $98 for a hoodie?**
-A: At 460 GSM and $0.21/gram, yes. It's cheaper than Jamroc ($0.34/gram) and heavier than Farm Brand. The real value is model-height documentation — most brands skip this entirely.
+**Q: Is the "460 GSM" hoodie still the Ripper Hoodie?**
+A: No — that was a mix-up in an earlier version of this page. 460 GSM belongs to the Toggle Hoodie, which is currently sold out. The Ripper Hoodie's fabric weight is not published.
 
 **Q: Do Surf Trip hoodies shrink?**
-A: Not documented on their site. Follow care tag instructions (usually cold wash, lay flat dry).
+A: Not documented on the brand's site. Follow the care tag (typically cold wash, lay flat to dry).
 
 **Q: Can I return items?**
-A: Surf Trip's return policy isn't listed in product JSON. Contact their store directly.
+A: Surf Trip's return policy isn't listed in the product data we have access to. Contact the store directly before ordering if this matters to you.
+
+**Q: What affiliate network and cookie window does this link use?**
+A: We have not independently confirmed this — an earlier version of this page stated "Awin, 30-day cookie" without a verified source, and we've removed that claim until it can be confirmed.
 
 ---
 
 ## Sources
 
-- Surf Trip Supply products.json (accessed July 27, 2026)
-- Product listings with size charts & model heights
-- Fabric weight conversions (1 oz/yd² = 33.906 GSM)
+- Surf Trip Supply live product feed (accessed July 27, 2026)
+- Product titles, prices, fit notes, GSM (where published), and stock read directly from that feed
 
 ---
 
-**Updated:** July 27, 2026  
-**Affiliate Program:** Awin (30-day cookie)  
-**Earn:** Commission on purchases through our link
+**Updated:** July 27, 2026 (corrected GSM mix-up and removed unverified affiliate-network claim)
 
-👉 [Shop Surf Trip Supply items under $100](https://surftripsupply.com/?ref=wbaiwbch)
+👉 [Shop Surf Trip Supply](https://surftripsupply.com/?ref=wbaiwbch)
 
 ---
 

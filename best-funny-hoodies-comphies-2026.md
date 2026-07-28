@@ -1,6 +1,8 @@
 # Best Funny Hoodies from Comphies 2026
 
-**Affiliate Disclosure:** This post contains affiliate links. We earn a commission on sales made through our links at no extra cost to you. We have not personally tested these products; this review is based on verified product data, available sizes, pricing, and verified customer feedback. [Full FTC Disclosure](https://www.ftc.gov/business-guidance/endorsements-testimonials)
+**Affiliate Disclosure:** This post contains affiliate links. We earn a commission on sales made through our links at no extra cost to you. We have not personally tested these products; this review is based on verified product data, available sizes, and pricing. [Full FTC Disclosure](https://www.ftc.gov/business-guidance/endorsements-testimonials)
+
+**Content note:** Comphies is an adult-humor novelty print-on-demand shop — most of the catalog leans into innuendo. We've kept this list to designs that don't cross into explicit sexual content or hot-button political statements, and we removed two picks from an earlier version of this page that did (a sexually explicit design and a "STRAIGHT PRIDE" political design) — replaced below with two better-fitting alternatives. If off-color humor generally isn't your thing, this brand as a whole probably isn't either.
 
 ---
 
@@ -10,7 +12,7 @@
 |----------|---------|-------|
 | 🔥 Most Available | Haywood Jablowme HVAC Hoodie | $43.02 |
 | 🎯 Biker Humor | Ever Ride A Fat Boy Hoodie | $58.27 |
-| 👩 Women-Specific | I Heart Your Face Hoodie | $43.02 |
+| 🏎️ Best Stock | Craven Moorehead Racing Hoodie | $39.04 |
 | 💰 Budget-Friendly | I Need A Huge Cocktail Hoodie | $43.02 |
 | 🎨 Most Variants | Chief Tunga Tribe Hoodie | $49.27 |
 
@@ -56,15 +58,14 @@ We analyzed **10 best-selling hoodies** from Comphies based on these criteria:
 
 ---
 
-### 3. 👩 I Heart Your Face Especially When It's Between My Legs Hoodie — $43.02
-**Best For:** Adults who enjoy bold, cheeky humor
+### 3. 🏎️ Craven Moorehead Racing Hoodie — $39.04
+**Best For:** Best stock on the whole list, motorsports-adjacent wordplay humor
 
-- **Availability:** 23/42 in stock
-- **Size Range:** S–4XL
-- **Price:** Tied for lowest price point at $43.02
-- **Stock Level:** Mid-range availability
+- **Availability:** 88/96 in stock — the deepest stock of any pick here
+- **Colors:** Sand, and additional colorways per the product page
+- **Price:** Cheapest hoodie on this list at $39.04
 
-**Note:** This design skews toward adult humor; review all design details before ordering.
+**Note:** This replaces a sexually explicit design from an earlier version of this page.
 
 ---
 
@@ -118,12 +119,13 @@ We analyzed **10 best-selling hoodies** from Comphies based on these criteria:
 
 ---
 
-### 9. 🚩 STRAIGHT PRIDE Hoodie — $49.27
-**Best For:** Fans of controversial or statement-humor designs
+### 9. 🦃 Gather Together (Thanksgiving) Hoodie — $39.04
+**Best For:** Fall/holiday-season wear without the edgier humor
 
-- **Availability:** 28/64 in stock
-- **Size Range:** S–5XL
-- **Note:** This design carries social/political messaging; verify alignment with your values before ordering
+- **Availability:** 79/96 in stock
+- **Price:** $39.04
+
+**Note:** This replaces a hoodie carrying a hot-button political message from an earlier version of this page.
 
 ---
 
@@ -190,9 +192,9 @@ A: Most designs are marketed to men, but several are women-specific (marked "Wom
 
 Comphies hoodies are best for buyers who prioritize **bold humor over classic style**. Price points ($43–$58) are competitive for novelty apparel, and extended size ranges (up to 5XL) are available on most designs. 
 
-**Best Pick Overall:** Haywood Jablowme HVAC Hoodie — highest availability, lowest price, unique trades-oriented humor.
+**Best Pick Overall:** Craven Moorehead Racing Hoodie — deepest stock (88/96) at the lowest price on this list ($39.04).
 
-**Best If You Want Extended Sizes:** I Need A Huge Cocktail or Haywood Jablowme (both go to 5XL, price $43.02).
+**Best If You Want Extended Sizes:** I Need A Huge Cocktail (goes to 5XL, $43.02).
 
 **Caveat:** This is print-on-demand apparel, so fabric specs are standard POD-quality. If you need premium heavyweight hoodies with published GSM data, brands like Jamroc Dept or Farm Brand USA offer more detailed specs.
 
@@ -212,7 +214,7 @@ Comphies hoodies are best for buyers who prioritize **bold humor over classic st
 
 ---
 
-**Last Updated:** July 27, 2026
+**Last Updated:** July 27, 2026 (replaced two off-brand designs — one sexually explicit, one politically charged — with better-fitting alternatives; see content note at top)
 
 ---
 

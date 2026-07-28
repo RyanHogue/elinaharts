@@ -1,183 +1,143 @@
-# Best Kids' School Shoes & Clothing Under $100 (Tax-Free Weekend Guide 2026)
+---
+layout: default
+title: "Tax-Free Weekend 2026: Hoodies & Tees Under $100"
+description: "Texas's tax-free weekend runs August 7-9, 2026, and Florida's runs all the way from July 20 to August 20 — both exempt clothing under $100 from sales tax. We checked our four affiliate-linked apparel brands against that $100 line and their live stock, so you know exactly what qualifies before you shop."
+permalink: /best-kids-back-to-school-under-100-2026
+---
 
-**Disclosure:** We analyzed product catalogs, brand specifications, and verified customer reviews across multiple retailers to create this guide. We have affiliate partnerships with featured brands and earn commissions when readers use our links. This does not affect our recommendations — we only feature brands with strong specs and customer reviews.
+# Tax-Free Weekend 2026: Hoodies & Tees Under $100
+
+**Which of our four apparel brands actually qualify — checked against the $100 line and live stock**
+
+*Last updated: July 27, 2026*
+
+> **Disclosure:** This page contains affiliate links. If you buy through them, I may earn
+> a commission at no extra cost to you. I have not personally tested every product here —
+> these picks are based on manufacturer specifications and live product data. See our methodology below.
+
+**Correction notice:** An earlier version of this page was a "kids' back-to-school shoes and clothing" guide featuring four brands (Suadexshoes, Consciously Baby, Wonder Hoodie, Zeepk Sports) with invented star ratings and made-up customer quotes. Those brands turned out not to sell what the article described at all — see our corrected, standalone pages for [Suadex](/suadexshoes-review-2026) (adult work boots), [Consciously Baby](/consciously-baby-sizing-guide-2026) (women's tees + baby boots), [Wonder Hoodie](/wonder-hoodie-review-2026) (body armor), and [Zeepk Sports](/zeepk-sports-buying-guide-2026) (sporting goods). This page has been rebuilt from scratch around the four apparel brands we actually carry affiliate links for and have verified catalogs on.
 
 ---
 
-## Quick Picks
+## Why this matters right now
 
-| Need | Brand | Type | Price | Discount |
-|---|---|---|---|---|
-| 👟 Everyday School Shoes | Suadexshoes | Kids' Sneakers | $45–$95 | **10% off** code `Elina harts` |
-| 👕 Back-to-School Basics | Consciously Baby | Tees & Polos | $24–$68 | **10% off** code `ELINAHARTS` |
-| 🧥 Hoodies & Layers | Wonder Hoodie | Hoodies | $35–$89 | **$50 off** code `ELINAHARTS50` |
-| ⚽ Athletic & Hybrid | Zeepk Sports | Shoes & Apparel | $38–$99 | **10% off** code `ELINAHARTS` |
+Two states run tax-free weekends on clothing this year, both with a **$100-per-item ceiling**:
 
----
+| State | Dates (2026) | Limit |
+|---|---|---|
+| **Texas** | **August 7–9** | Clothing & footwear under $100/item |
+| **Florida** | **July 20 – August 20** (32 days — the longest in the country) | Clothing, footwear, and bags under $100/item |
 
-## How We Chose: Our 5-Point Scoring System
-
-We evaluated every pick on these weighted criteria:
-
-1. **Price Point (20%)** — Must be ≤$100 to qualify for tax-free weekend in TX/VA/SC (7–9/8)
-2. **Quality & Durability (25%)** — Material specs (GSM, fabric type, stitching notes from brand sites)
-3. **Size Range (20%)** — Does the brand offer sizes from kids (4–7) through tween/early teen (XL+)?
-4. **Customer Feedback (20%)** — Verified reviews on brand sites + retailer platforms (focus: fit, longevity, comfort)
-5. **Value for Money (15%)** — $/quality ratio; does the coupon + affiliate link maximize savings?
+A $98 hoodie bought in either state during those windows pays **zero sales tax**. A $155 hoodie doesn't qualify at all, no matter how it's marketed.
 
 ---
 
-## Tax-Free Weekend Angle: Why August 7–9, 2026 Matters
+## Quick answer: which of our 4 brands actually qualify
 
-**Texas, Virginia, and South Carolina** allow **tax-free shopping on clothing and footwear under $100** during the 2026 Back-to-School season (dates vary by state; see below). This means:
-
-- A $95 hoodie = **zero sales tax** (saves ~$7–8)
-- A $89 pair of shoes = **tax-free** (saves ~$6–7)
-- Bundle coupon codes above = **extra 10%–$50 off**
-
-**Tax-Free Dates by State:**
-- **Texas & Virginia:** August 7–9, 2026
-- **South Carolina:** Flexible (applies to most back-to-school purchases)
-- **Other states:** Check your state tax authority; some offer August-wide holidays
-
-**Timing:** Start shopping **August 3–4** to browse, then **purchase August 7–9** during the tax-free window.
+| Brand | Qualifies? | Why |
+|---|---|---|
+| **Stay Another Day** | ✅ Nearly everything | Core "988" line runs $28–$55; broader catalog tops out around $75 |
+| **Surf Trip Supply** | ✅ Everything | Every apparel item in the catalog is $98 or less |
+| **Farm Brand** | ✅ Most items | Hoodies mostly $35–$40; tees from $24 |
+| **Jamroc Dept** | ⚠️ Only 8 of 47 hoodies | Flagship hoodies run $155–$225 — over the limit. Tees and a handful of cropped/lightweight hoodies still qualify |
 
 ---
 
-## Best Kids' School Shoes (Ages 4–Teen)
+## How we chose these picks
 
-### 1. **Suadexshoes — Everyday Comfort Sneakers**
-- **Why it wins:** Wide size range (kids to adult), reinforced toe, breathable mesh uppers
-- **Price range:** $45–$95
-- **Best for:** Kids who need all-day comfort for classroom + playground
-- **What parents report:** Holds up to heavy wear; good for kids with wider feet
-- **Our rating:** 4.2/5
-- **[Shop Suadexshoes → Use code `Elina harts` for 10% off](https://suadexshoes.com/?ref=gcfxazig)**
+We pulled each brand's live product feed on **July 27, 2026** and kept only items priced under $100, checking:
 
-### 2. **Zeepk Sports — Hybrid Shoe (Casual + Athletic)**
-- **Why it wins:** Lightweight; cushioning specs optimized for running/PE class; slip-resistant sole
-- **Price range:** $38–$92
-- **Best for:** Kids doing sports or PE who need one shoe that works everywhere
-- **What parents report:** Doesn't require "break-in" time; durable soles
-- **Our rating:** 4.3/5
-- **[Shop Zeepk Sports → Use code `ELINAHARTS` for 10% off](https://zeepksports.com/?ref=dzdywbfy)**
+1. **Price under $100** — no exceptions, since that's the entire point of this page
+2. **Live stock** — is the item actually purchasable today, in a real size range
+3. **Published specs** — fabric weight (GSM/oz) where the brand provides it
 
 ---
 
-## Best Kids' Clothing — Back-to-School Essentials
+## Stay Another Day — the 988 line (all under $100)
 
-### 3. **Consciously Baby — Basic Tees & Polos**
-- **Why it wins:** Soft cotton blend; ethical sourcing; size range includes plus sizes
-- **Price range:** $24–$68 (tees $24–$38, polos $38–$68)
-- **Best for:** Building a capsule wardrobe (neutrals, basics, easy mixing)
-- **What parents report:** Hold color through many washes; minimal shrinkage
-- **Our rating:** 4.1/5
-- **[Shop Consciously Baby → Use code `ELINAHARTS` for 10% off](https://consciouslybaby.com/?ref=tsjctqoh)**
+Every piece in the brand's core "988" design qualifies for tax-free weekend in both states.
 
-### 4. **Wonder Hoodie — Layering & Warmth**
-- **Why it wins:** Heavyweight construction (visible on spec sheets); works as jacket alternative; print options
-- **Price range:** $35–$89
-- **Best for:** Kids needing extra layers (early fall, cold classroom buildings, sports)
-- **What parents report:** Lasts multiple seasons; minimal pilling; true to size
-- **Our rating:** 4.4/5
-- **[Shop Wonder Hoodie → Use code `ELINAHARTS50` for $50 off](https://wonderhoodie.com/?ref=jzxopquk)**
+| Item | Price | Sizes |
+|---|---|---|
+| [988 Screen Printed T-shirt](https://stayanotherday.com/products/988-screen-printed-t-shirt?ref=mfusgkyz) | $28 | S–4X |
+| [988 Screen Printed Long Sleeve](https://stayanotherday.com/products/988-screen-printed-long-sleeve?ref=mfusgkyz) | $35 | S–3XL |
+| [988 Screen Printed Crewneck](https://stayanotherday.com/products/988-screen-printed-crewneck?ref=mfusgkyz) | $50 | S–5XL |
+| [988 Screen Printed Hoodie](https://stayanotherday.com/products/988-screen-printed-hoodie?ref=mfusgkyz) | $55 | S–5XL |
+
+Full detail: [Best Gifts for Mental Health Awareness](/best-gifts-mental-health-awareness-2026).
 
 ---
 
-## Comparison Table: All 4 Brands at a Glance
+## Surf Trip Supply — everything qualifies
 
-| Factor | Suadexshoes | Consciously Baby | Wonder Hoodie | Zeepk Sports |
-|---|---|---|---|---|
-| **Shoe Options** | ✅ | ❌ | ❌ | ✅ |
-| **Clothing Options** | ❌ | ✅ | ✅ | ✅ |
-| **Kids Sizes (4–7)** | ✅ | ✅ | ✅ | ✅ |
-| **Plus Sizes (XL+)** | ✅ | ✅ | ✅ | ✅ |
-| **Price Range** | $45–$95 | $24–$68 | $35–$89 | $38–$99 |
-| **Coupon Discount** | 10% | 10% | $50 off | 10% |
-| **Affiliate Link** | [Link](https://suadexshoes.com/?ref=gcfxazig) | [Link](https://consciouslybaby.com/?ref=tsjctqoh) | [Link](https://wonderhoodie.com/?ref=jzxopquk) | [Link](https://zeepksports.com/?ref=dzdywbfy) |
+Nothing in Surf Trip Supply's apparel catalog exceeds $98, so the whole lineup clears the $100 bar. Availability varies by style since this is a small-batch brand — check current stock before buying.
 
----
+| Item | Price |
+|---|---|
+| [Ripper Hoodie Brown](https://surftripsupply.com/?ref=wbaiwbch) | $98 |
+| [Shark Hoodie](https://surftripsupply.com/?ref=wbaiwbch) | $98 |
+| [Shark Knit Sweater Navy](https://surftripsupply.com/?ref=wbaiwbch) | $84 (260 GSM, published) |
+| [Ripper Tee Brown](https://surftripsupply.com/?ref=wbaiwbch) | $55 |
 
-## Who Should NOT Buy From These Brands
-
-- **Looking for designer logos or trend-heavy prints?** Consciously Baby focuses on basics; Wonder Hoodie is minimalist. Try other brands for bold graphics.
-- **Need formal back-to-school wear** (dress pants, blazers, dress shoes)? Zeepk Sports leans athletic; these four are better for casual + athletic hybrid wear.
-- **Require specialized shoes** (orthopedic inserts, AFO compatibility)? Suadexshoes is standard width. Check brand sites for adaptive sizing first.
-- **Buying for very young kids** (under age 4)? Suadexshoes starts at size kids 4; Consciously Baby starts at toddler sizes (check their site).
+Full detail: [Best Surf Trip Supply Items Under $100](/best-surf-trip-items-under-100-2026).
 
 ---
 
-## What to Look For: Back-to-School Shoe & Clothing Buying Guide
+## Farm Brand — hoodies and tees, mostly under $100
 
-### For Shoes
-1. **Fit Check First:** Most schools require a full finger's width of space between toes and shoe end. Measure your kid's feet in the afternoon (when they swell from activity).
-2. **Sole Traction:** Look for slip-resistant soles if your kid runs around the playground or has wood/tile floors (indoor PE).
-3. **Toe Box Width:** If your child has wider feet, check brand reviews for "runs narrow" vs. "true to width."
-4. **Washability:** Machine washable is a huge time-saver; check product specs before buying.
+Farm Brand's hoodie line clusters at $35–$40, well under the tax-free ceiling.
 
-### For Clothing
-1. **Fabric Content:** Cotton blends (50/50 or 60 cotton/40 poly) are more durable than 100% cotton; check shrinkage info.
-2. **Sleeve Length:** Back-to-school clothes should account for growth; buy slightly longer if your kid grew over summer.
-3. **Ease of Care:** Pre-shrunk labels save hassle. Avoid dry-clean-only fabrics unless you're prepared for the cost.
-4. **Color Staying Power:** Darker colors (black, navy, brown) hide stains better than white or pastels.
+| Item | Price |
+|---|---|
+| [Just Right Surf Hoodie](https://farmexclusives.com/?ref=ojidyazi) | $40 (281 GSM, published) |
+| [Plain All Seasons Full-Zip Hoodie](https://farmexclusives.com/?ref=ojidyazi) | $40 |
+| [Plain Lazy Comfort Hoodie](https://farmexclusives.com/?ref=ojidyazi) | $39 |
+| [Plain T-Shirt](https://farmexclusives.com/?ref=ojidyazi) | $24 |
 
 ---
 
-## FAQ: Tax-Free Weekend, Sizing, and Shipping
+## Jamroc Dept — only the lighter pieces qualify
 
-**Q: Do I need to shop in Texas/Virginia/SC to get the tax-free benefit?**
-A: No. The tax-free exemption applies at checkout in those states. Online orders shipping to those states on or before August 9 may qualify; check individual brand sites for their policy.
+Jamroc's flagship heavyweight hoodies ($155–$225) do **not** qualify — they're well over the $100 ceiling. A small number of lighter/cropped styles do:
 
-**Q: What if my order doesn't arrive by August 9?**
-A: Tax-free is calculated at purchase date, not delivery date. If you buy August 7–9, tax exemption applies even if delivery is August 12–15.
+| Item | Price |
+|---|---|
+| [Jamroc Dept Unisex Solar Performance Hoodie](https://www.jamrocdept.com/?ref=RYANHOGUE) | $72 |
+| [Jamroc Cropped Half-Zip Hoodie](https://www.jamrocdept.com/?ref=RYANHOGUE) | $85 |
+| [Firestorm Hoodie](https://www.jamrocdept.com/?ref=RYANHOGUE) | $90 |
+| [Dept Heavyweight Mineral Wash Boxy Tee](https://www.jamrocdept.com/?ref=RYANHOGUE) | $33.94 |
 
-**Q: Do the coupon codes stack with the tax-free exemption?**
-A: Typically yes. Coupon codes (10% off, $50 off) apply to the item price; tax exemption removes the tax calculation. Check brand checkout for terms.
-
-**Q: What's the return policy if shoes don't fit?**
-A: All four brands accept returns within 30 days (check exact terms on their sites). Keep shipping receipts; returns may have return shipping fees unless the item is defective.
-
-**Q: Which brand has the fastest shipping?**
-A: Zeepk Sports and Consciously Baby typically ship within 3–5 business days. Suadexshoes and Wonder Hoodie may take 5–7 days. Check tracking details before ordering.
-
-**Q: Are these shoes/clothes true to size?**
-A: Most report "true to size," but width varies. Suadexshoes runs standard; Wonder Hoodie runs true; Consciously Baby is standard. Read recent reviews on each brand site for fit notes.
-
-**Q: Can I use multiple coupon codes on one order?**
-A: No. Most retailers allow one coupon code per order. Choose your biggest discount (e.g., Wonder Hoodie's $50 off) if ordering from multiple brands in one transaction.
-
-**Q: Do these brands offer bulk discounts for school uniforms?**
-A: Contact each brand directly for bulk order questions. Consciously Baby sometimes offers educator discounts; check their site.
+If you specifically want Jamroc's heaviest fabric (400–530 GSM), most of those hoodies fall outside this weekend's tax exemption — see our [heavyweight hoodie roundup](/best-heavyweight-hoodies-2026) instead.
 
 ---
 
-## Final Thoughts
+## Who should NOT rely on this weekend
 
-Back-to-school season 2026 hits peak shopping **August 2–29**, with three regional waves across the U.S. Getting your order in before August 5 gives you time to exchange or reorder if sizing is off, plus you catch the tax-free weekend in states that offer it.
+- **Anyone set on a premium Jamroc hoodie** — the 400+ GSM pieces run $155–$225, well past the $100 line.
+- **Shoppers outside TX or FL** — other states run their own back-to-school tax holidays on different dates and limits; check your state's tax authority before assuming this applies.
+- **Anyone buying after the window closes** — Texas's window is 3 days only (Aug 7–9); Florida's runs longer (through Aug 20) but still ends.
 
-Use the coupon codes above + affiliate links to maximize savings. Every dollar saved goes back to your family budget — money well spent on durable shoes and quality basics that last through the school year.
+---
+
+## FAQ
+
+**Does the tax exemption apply if I order online and have it shipped to Texas or Florida?**
+Sales tax rules for online orders during a holiday period vary by state and by the seller's tax registration. Check the retailer's checkout process directly — we can't confirm this applies uniformly across all four brands.
+
+**Can I combine multiple brands in one tax-free order?**
+The exemption applies per item, not per order, so yes — as long as each individual item is under $100.
+
+**Which brand has the widest size range under $100?**
+Stay Another Day's 988 hoodie and crewneck reach 5XL. Jamroc's under-$100 pieces are more limited in size range than its full-price hoodie line.
 
 ---
 
 ## Sources
 
-- [NRF Back-to-School 2026 Spending Report](https://nrf.com/)
-- [Avalara 2026 Sales Tax Holiday Calendar](https://www.avalara.com/)
-- [Texas Comptroller Sales Tax Holiday Info](https://comptroller.texas.gov/)
-- [Virginia Tax Sales Tax Holiday](https://www.tax.virginia.gov/)
-- [Suadexshoes Product Specs](https://suadexshoes.com/)
-- [Consciously Baby About Us](https://consciouslybaby.com/)
-- [Wonder Hoodie Sizing Guide](https://wonderhoodie.com/)
-- [Zeepk Sports Fit Guide](https://zeepksports.com/)
+- [Avalara — 2026 sales tax holidays](https://www.avalara.com/blog/en/north-america/2026/01/sales-tax-holidays.html)
+- [ABC News — 2026 back-to-school sales tax holidays](https://abcnews.com/GMA/Living/2026-back-school-sales-tax-holidays/story?id=134977553)
+- Stay Another Day, Surf Trip Supply, Farm Brand, and Jamroc Dept live product feeds (accessed July 27, 2026)
 
 ---
 
-**Published:** July 28, 2026  
-**Last Updated:** July 28, 2026
-
----
-
-## Read Next
-- [Best Heavyweight Hoodies for Durability 2026](../best-heavyweight-hoodies-2026)
-- [Jamroc Dept Sizing Guide 2026](../jamroc-dept-sizing-guide-2026)
-- [Tax-Free Weekend Shopping Tips](../tax-free-weekend-guide)
+**Updated:** July 27, 2026 (full rebuild — replaces an earlier version built around four unrelated, misdescribed brands)
