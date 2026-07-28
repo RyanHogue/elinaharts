@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Consciously Baby 2026: What the Brand Actually Sells"
+description: "Consciously Baby sells soft-sole leather boots for infants and toddlers plus graphic tees for adult women - not school-age kids' clothing as an earlier version of this page claimed. The two real product lines and who they're for."
+permalink: /consciously-baby-sizing-guide-2026
 ---
 
 # Consciously Baby 2026: What the Brand Actually Sells

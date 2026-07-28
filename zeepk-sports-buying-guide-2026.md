@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Zeepk Sports 2026: What the Brand Actually Sells"
+description: "Zeepk Sports sells cricket bats and combat-sport gear, not kids' athletic shoes or apparel as an earlier version of this page claimed. The real $10-50 catalog and who it's for."
+permalink: /zeepk-sports-buying-guide-2026
 ---
 
 # Zeepk Sports 2026: What the Brand Actually Sells

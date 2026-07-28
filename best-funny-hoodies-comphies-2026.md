@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Best Funny Hoodies from Comphies (2026)"
+description: "Comphies makes humor/novelty hoodies at $39-58 with size ranges up to 5XL. We ranked 10 designs by stock, price, and size range, and note the two picks we swapped out for crossing into explicit or political territory."
+permalink: /best-funny-hoodies-comphies-2026
+---
+
 # Best Funny Hoodies from Comphies 2026
 
 **Affiliate Disclosure:** This post contains affiliate links. We earn a commission on sales made through our links at no extra cost to you. We have not personally tested these products; this review is based on verified product data, available sizes, and pricing. [Full FTC Disclosure](https://www.ftc.gov/business-guidance/endorsements-testimonials)
@@ -220,6 +227,6 @@ Comphies hoodies are best for buyers who prioritize **bold humor over classic st
 
 ## Related Reading
 
-- [Jamroc Dept Sizing Guide 2026](jamroc-dept-sizing-guide-2026.md) — Compare with heavyweight streetwear hoodies
-- [Farm Brand Sizing Guide 2026](farm-brand-sizing-guide-2026.md) — Budget-friendly non-humor option
-- [Is Jamroc Dept Worth It? 2026](is-jamroc-dept-worth-it-2026.md) — Premium hoodie analysis
+- [Jamroc Dept Sizing Guide 2026]({{ '/jamroc-dept-sizing-guide-2026' | relative_url }}) — Compare with heavyweight streetwear hoodies
+- [Farm Brand Sizing Guide 2026]({{ '/farm-brand-sizing-guide-2026' | relative_url }}) — Budget-friendly non-humor option
+- [Is Jamroc Dept Worth It? 2026]({{ '/is-jamroc-dept-worth-it-2026' | relative_url }}) — Premium hoodie analysis
