@@ -8,7 +8,7 @@ permalink: /best-surf-trip-items-under-100-2026
 
 # Best Surf Trip Supply Items Under $100 — 2026 Buying Guide
 
-**FTC Disclosure:** This post contains affiliate links from Surf Trip Supply. We may earn a commission if you make a purchase through our links at no additional cost to you. I have not personally tested these products — picks are based on the brand's own published specifications and live stock data. [Full disclosure](/#ftc).
+**FTC Disclosure:** This post contains affiliate links from Surf Trip Supply. We may earn a commission if you make a purchase through our links at no additional cost to you. I have not personally tested these products — picks are based on the brand's own published specifications and live stock data. [Full disclosure]({{ '/about' | relative_url }}).
 
 If you're new to Surf Trip Supply and want quality streetwear without breaking the bank, here are five picks under $100, checked against the brand's live product data.
 

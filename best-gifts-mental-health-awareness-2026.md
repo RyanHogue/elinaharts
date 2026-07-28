@@ -8,7 +8,7 @@ permalink: /best-gifts-mental-health-awareness-2026
 
 # Best Gifts for Mental Health Awareness — Hoodies That Support the 988 Lifeline
 
-**FTC Disclosure:** This post contains affiliate links from Stay Another Day. We may earn a commission if you make a purchase through our links at no additional cost to you. I have not personally tested these products — picks are based on the brand's published product data. [Full disclosure](/#ftc).
+**FTC Disclosure:** This post contains affiliate links from Stay Another Day. We may earn a commission if you make a purchase through our links at no additional cost to you. I have not personally tested these products — picks are based on the brand's published product data. [Full disclosure]({{ '/about' | relative_url }}).
 
 **988 Lifeline:** If you or someone you know is struggling, call or text 988 anytime, day or night.
 
