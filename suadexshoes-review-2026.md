@@ -5,7 +5,7 @@ title: "Suadex Steel Toe Work Shoes Review 2026: What They Actually Are"
 
 # Suadex Steel Toe Work Shoes Review 2026: What They Actually Are
 
-**Disclosure:** This page contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. I have not personally tested these products — this is based on the brand's own published catalog data. [Full disclosure](/#ftc).
+**Disclosure:** This page has no affiliate link for this brand — we are not currently monetizing this page. I have not personally tested these products; this is based on the brand's own published catalog data. [How we review]({{ '/about' | relative_url }}).
 
 **Correction notice (2026-07-27):** An earlier version of this page described Suadex as a **kids' back-to-school shoe brand** with a "4.2/5" rating, invented parent testimonials, and a "Elina harts" coupon code. None of that was accurate. Suadex is an **adult steel-toe work/safety shoe brand** — not children's footwear, and not back-to-school apparel. This page has been rewritten to reflect what the brand actually sells.
 

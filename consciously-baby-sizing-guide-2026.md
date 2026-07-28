@@ -5,7 +5,7 @@ title: "Consciously Baby 2026: What the Brand Actually Sells"
 
 # Consciously Baby 2026: What the Brand Actually Sells
 
-**Disclosure:** This page contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. I have not personally tested these products — this is based on the brand's own published catalog data. [Full disclosure](/#ftc).
+**Disclosure:** This page has no affiliate link for this brand — we are not currently monetizing this page. I have not personally tested these products; this is based on the brand's own published catalog data. [How we review]({{ '/about' | relative_url }}).
 
 **Correction notice (2026-07-27):** An earlier version of this page was a "kids' back-to-school sizing guide" claiming Consciously Baby sells tees and polos in child sizes 4–14, with a size chart and "95% of reviews report true to size" — none of that matches the brand's real catalog. This page has been rewritten to reflect what the brand actually sells.
 

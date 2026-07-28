@@ -5,7 +5,7 @@ title: "Zeepk Sports 2026: What the Brand Actually Sells"
 
 # Zeepk Sports 2026: What the Brand Actually Sells
 
-**Disclosure:** This page contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. I have not personally tested these products — this is based on the brand's own published catalog data. [Full disclosure](/#ftc).
+**Disclosure:** This page has no affiliate link for this brand — we are not currently monetizing this page. I have not personally tested these products; this is based on the brand's own published catalog data. [How we review]({{ '/about' | relative_url }}).
 
 **Correction notice (2026-07-27):** An earlier version of this page described Zeepk Sports as a "$38–99 hybrid athletic shoes and apparel" brand for kids' PE class and playground use, with invented sizing charts and a made-up comparison table against Nike/Adidas. None of that matches the brand's real catalog. This page has been rewritten to reflect what the brand actually sells.
 
