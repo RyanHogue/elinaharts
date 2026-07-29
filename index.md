@@ -177,6 +177,12 @@ We converted every published weight across 464 products. Farm Brand delivers rou
 hoodie fabric per dollar; Jamroc is the only one selling a heavyweight tee at all.
 *Updated July 2026*
 
+### [Surf Trip Supply vs. Stay Another Day: Which Hoodie Brand Should You Buy?]({{ '/surf-trip-supply-vs-stay-another-day-2026' | relative_url }})
+A California surf label against a mental-health-awareness brand - not really the same shopper, but
+both come up in the same searches. Stay Another Day wins on price, plus-size range and in-stock
+odds; Surf Trip Supply wins on original art and knowing your fit before you buy.
+*Updated July 2026*
+
 ---
 
 ## 📏 Sizing guides - "does it run small?"
