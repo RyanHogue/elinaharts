@@ -125,6 +125,12 @@ versus the cheapest entry point (Plain T-Shirt, $24). (Note: we could not confir
 exists for this brand.)
 *Updated July 2026*
 
+### [Silva Espadas Coupon Code (10% Off): What to Buy]({{ '/silva-espadas-coupon-elina-2026' | relative_url }})
+A 10% off code (`ELINA`) for this Latino-pride graphic streetwear brand, plus six picks from its
+original in-house designs — we skipped the large sports-team-logo duffle bag line entirely and
+checked sizes against live stock.
+*Updated July 2026*
+
 ### [Is Surf Trip Supply Worth It?]({{ '/is-surf-trip-supply-worth-it-2026' | relative_url }})
 Surf Trip Supply sells $55-98 hand-drawn surf hoodies and tees in small US batches. We broke down
 its published data - fabric, fit, sizing and stock - and who should skip it (sizing stops at XL
