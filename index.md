@@ -17,6 +17,12 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## 🧥 Buying guides
 
+### [Best Zip-Up Hoodies 2026: Full-Zip Is Back]({{ '/best-zip-up-hoodies-2026' | relative_url }})
+Zip hoodies are the comeback silhouette of 2026. We ranked real zip hoodies and zip jackets across
+three brands by published fabric weight - 230 to 750 GSM - from a light early-fall layer to the
+heaviest zip garment we could find.
+*Updated July 2026*
+
 ### [Oversized Hoodie + Leggings: The Back-to-School Outfit Trending for 2026]({{ '/oversized-hoodie-leggings-outfit-2026' | relative_url }})
 Four real, in-stock hoodies picked to match the oversized-hoodie-and-leggings combo showing up across
 2026 back-to-school trend forecasts, plus honest styling guidance for the leggings and sneakers we
