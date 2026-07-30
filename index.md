@@ -221,6 +221,12 @@ styles.
 
 ## 🧘 Athleisure & yoga
 
+### [IUGA vs CRZ Yoga (2026): Which One Actually Fits Above a Large?]({{ '/iuga-vs-crz-yoga-2026' | relative_url }})
+Both brands split their leggings into named fabric collections instead of one generic style. We
+compared their published catalogs on the thing that actually matters first: 2XL is available on
+~72% of IUGA's styles versus just 4-19% at CRZ Yoga, depending on the collection.
+*Updated July 2026*
+
 ### [CRZ Yoga Review 2026: Which Fabric Collection Should You Actually Buy?]({{ '/crz-yoga-fabric-guide-2026' | relative_url }})
 CRZ Yoga sells nearly 1,200 styles split across six differently-named fabric collections -
 Butterluxe, Butterlift, Nakedfeel, Feathery-Fit, Pima Cotton and Secretsculpt. We pulled the actual
