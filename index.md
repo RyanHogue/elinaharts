@@ -219,6 +219,16 @@ styles.
 
 ---
 
+## 🧘 Athleisure & yoga
+
+### [CRZ Yoga Review 2026: Which Fabric Collection Should You Actually Buy?]({{ '/crz-yoga-fabric-guide-2026' | relative_url }})
+CRZ Yoga sells nearly 1,200 styles split across six differently-named fabric collections -
+Butterluxe, Butterlift, Nakedfeel, Feathery-Fit, Pima Cotton and Secretsculpt. We pulled the actual
+listed fabric percentages so you know which one is soft, which compresses, and which is real cotton.
+*Updated July 2026*
+
+---
+
 ## 👟 More guides
 
 ### [The Best Sensory-Friendly School Shoes for Kids in 2026]({{ '/best-sensory-friendly-school-shoes-2026' | relative_url }})
