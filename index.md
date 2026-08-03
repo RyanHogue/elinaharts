@@ -17,6 +17,12 @@ own spec sheet or to published customer reviews, and we say so on every page.
 
 ## 🧥 Buying guides
 
+### [Back-to-School Outfits Under $100: 6 Picks for 6 School-Day Situations]({{ '/back-to-school-outfits-under-100-2026' | relative_url }})
+Not a ranked price list — six real, in-stock pieces from Surf Trip Supply and Stay Another Day
+matched to specific situations: first day, the AC-cold classroom, gym day, budget multiples, the
+first cold morning, and plus-size sizing.
+*Updated August 2026*
+
 ### [Best Zip-Up Hoodies 2026: Full-Zip Is Back]({{ '/best-zip-up-hoodies-2026' | relative_url }})
 Zip hoodies are the comeback silhouette of 2026. We ranked real zip hoodies and zip jackets across
 three brands by published fabric weight - 230 to 750 GSM - from a light early-fall layer to the
